@@ -1,5 +1,5 @@
 # data_preprocessing
-# template code for datapreprocessing
+template code for datapreprocessing
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
